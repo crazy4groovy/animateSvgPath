@@ -1,0 +1,222 @@
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg1307"
+   sodipodi:docname="monkey-face.svg"
+   inkscape:export-filename="/home/ulisse/Desktop/greasemonkey/greasemonkey.png"
+   viewBox="0 0 43 40.174"
+   sodipodi:version="0.32"
+   inkscape:export-xdpi="90"
+   version="1.1"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-ydpi="90"
+   inkscape:version="0.91 r13725">
+  <defs
+     id="defs1309">
+    <linearGradient
+       id="linearGradient2251">
+      <stop
+         id="stop2253"
+         style="stop-color:#f6e1cf"
+         offset="0" />
+      <stop
+         id="stop3682"
+         style="stop-color:#e19d56"
+         offset=".5" />
+      <stop
+         id="stop2255"
+         style="stop-color:#f4dcb7"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="8.8607749"
+     borderopacity="0.09019608"
+     inkscape:current-layer="layer1"
+     inkscape:cx="14.813735"
+     inkscape:cy="14.230636"
+     fill="#729fcf"
+     inkscape:grid-points="false"
+     inkscape:grid-bbox="false"
+     inkscape:window-maximized="0"
+     showgrid="false"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     bordercolor="#666"
+     inkscape:window-x="278"
+     inkscape:window-y="0"
+     inkscape:window-width="1417"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     pagecolor="#ffffff"
+     inkscape:document-units="px"
+     inkscape:window-height="909"
+     showborder="true">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       opacity=".2"
+       visible="true"
+       color="#0000ff"
+       enabled="true"
+       originy="0px"
+       originx="0px"
+       empspacing="2"
+       spacingy="0.5px"
+       spacingx="0.5px"
+       snapvisiblegridlinesonly="true"
+       empopacity="0.4"
+       type="xygrid"
+       empcolor="#0000ff" />
+  </sodipodi:namedview>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-117.3 43.706)">
+    <circle
+       id="path5040"
+       style="fill-rule:evenodd;color:#000000;fill:#ffffff;stroke:#552200"
+       inkscape:export-ydpi="1256.7957"
+       inkscape:export-filename="/Users/mdespont/Desktop/recherche en cours/kong/path5090.png"
+       inkscape:export-xdpi="1256.7957"
+       transform="matrix(-.82940 0 0 1.3794 147.5 -48.552)"
+       d="M -4.5,14.75 A 4.75,4.75 0 0 1 -9.25,19.5 4.75,4.75 0 0 1 -14,14.75 4.75,4.75 0 0 1 -9.25,10 4.75,4.75 0 0 1 -4.5,14.75 Z"
+       sodipodi:type="arc"
+       sodipodi:ry="4.75"
+       sodipodi:rx="4.75"
+       sodipodi:cy="14.75"
+       sodipodi:cx="-9.25" />
+    <circle
+       id="path5046"
+       style="fill-rule:evenodd;color:#000000;fill:#ffffff;stroke:#552200"
+       inkscape:export-ydpi="1256.7957"
+       inkscape:export-filename="/Users/mdespont/Desktop/recherche en cours/kong/path5090.png"
+       inkscape:export-xdpi="1256.7957"
+       transform="matrix(.82940 0 0 1.3794 129.78 -48.552)"
+       d="M -4.5,14.75 A 4.75,4.75 0 0 1 -9.25,19.5 4.75,4.75 0 0 1 -14,14.75 4.75,4.75 0 0 1 -9.25,10 4.75,4.75 0 0 1 -4.5,14.75 Z"
+       sodipodi:type="arc"
+       sodipodi:ry="4.75"
+       sodipodi:rx="4.75"
+       sodipodi:cy="14.75"
+       sodipodi:cx="-9.25" />
+    <path
+       id="path5050"
+       style="fill-rule:evenodd;color:#000000;fill:#ffffff;stroke:#552200"
+       d="m152.05-25.706c7.5 8 0 19-13.5 19-13.5-0.000019-21-11-13.5-19-4-10.5 4-18 13.5-18 9.5 0.000004 17.5 7.5 13.5 18z"
+       inkscape:export-ydpi="1256.7957"
+       sodipodi:nodetypes="czczc"
+       inkscape:export-filename="/Users/mdespont/Desktop/recherche en cours/kong/path5090.png"
+       inkscape:export-xdpi="1256.7957" />
+    <circle
+       id="path5060"
+       style="fill:#ffffff"
+       cx="143.41412"
+       cy="-29.01634"
+       r="4.1696858" />
+    <ellipse
+       id="path5062"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0052115"
+       cx="143.36246"
+       cy="-29.120756"
+       rx="2.7902708"
+       ry="3.1783559" />
+    <circle
+       id="path5064"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.00182836"
+       cx="143.73816"
+       cy="-30.731859"
+       r="1.0447794" />
+    <circle
+       id="path5068"
+       style="fill:#ffffff"
+       cx="133.67912"
+       cy="-29.01634"
+       r="4.1696858" />
+    <ellipse
+       id="path5070"
+       style="fill:#000000;stroke:#000000;stroke-width:0.0052115"
+       cx="133.62746"
+       cy="-29.120756"
+       rx="2.7902708"
+       ry="3.1783559" />
+    <circle
+       id="path5072"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.00182836"
+       cx="134.00316"
+       cy="-30.731859"
+       r="1.0447794" />
+    <path
+       id="path5090"
+       style="fill:none;stroke:#6b350f;stroke-width:1.74824214px;stroke-linecap:round;stroke-linejoin:round"
+       d="m 126.19274,-20.184485 c 9.26675,7.826165 17.12411,5.450318 24.55544,0"
+       inkscape:export-ydpi="1256.7957"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="1256.7957"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#552200;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4195"
+       cx="138.79926"
+       cy="-23.902679"
+       rx="2.7649951"
+       ry="1.0721411" />
+  </g>
+  <metadata
+     id="metadata33">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>funny monkey face</dc:title>
+        <dc:date>2010-08-23T06:27:37</dc:date>
+        <dc:description>A funny monkey face.
+\nRemix from Tango!'s face-monkey.
+\nhttp://commons.wikimedia.org/wiki/File:Face-monkey.svg</dc:description>
+        <dc:source>https://openclipart.org/detail/81865/funny-monkey-face-by-martouf</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Martouf</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>animal</rdf:li>
+            <rdf:li>cartoon</rdf:li>
+            <rdf:li>colour</rdf:li>
+            <rdf:li>face</rdf:li>
+            <rdf:li>funny</rdf:li>
+            <rdf:li>mammal</rdf:li>
+            <rdf:li>monkey</rdf:li>
+            <rdf:li>singe</rdf:li>
+            <rdf:li>tête</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
