@@ -6,6 +6,8 @@ A functional (but ugly!) [demo page](http://crazy4groovy.github.io/animateSvgPat
 
 `animateSvgPath(selectorNodes, style, animateSeconds, delaySeconds, cbPauseSeconds, cb)`
 
+**Return: ** ID of the cb's `setTimeout` (for `clearTimeout` if you want to cancel the cb).
+
 * selectorNodes - can be a CSS selector, or an array of DOM nodes (SVG paths)
 	* `'path'`
 * style - map of SVG path styles to be applied
@@ -32,10 +34,11 @@ All params are optional, sensible defaults provided (sub-points above).
 ```js
 var style = { fill: 'transparent', stroke: '#FF00AA', 'stroke-width': '2', sequential: true };
 
-//plain vanilla
-animateSvgPath('svg path', style, 3, 0, 2, animateSvgPath)
+//plain vanilla, looped
+var cancelLoopId = animateSvgPath('svg path', style, 3, 0, 2, animateSvgPath);
+// clearTimeout(cancelLoopId);
 
-//with jQuery, loading an image dynamically:
+//with jQuery, looped, loading an image dynamically:
 $('#svg-holder').load(
 	'http://example.com/images/myPic.svg',
 	animateSvgPath.bind(null, '#svg-holder path', style, 3, 0, 2, animateSvgPath)
