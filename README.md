@@ -26,7 +26,7 @@ All params are optional, sensible defaults provided (sub-points above).
 ## Example usage:
 
 ```html
-<script type="text/javascript" src="https://rawgit.com/crazy4groovy/b9793d573e9b58e1c758a0b6379cfe22/raw/d53b605851682394c5ae24a7b0ff87bde503d262/animateSvgPath.min.js"></script>
+<script type="text/javascript" src="https://rawgit.com/crazy4groovy/b9793d573e9b58e1c758a0b6379cfe22/raw/animateSvgPath.min.js"></script>
 ```
 
 ```js
