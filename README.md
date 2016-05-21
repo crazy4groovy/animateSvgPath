@@ -6,7 +6,7 @@ A functional (but ugly!) [demo page](http://crazy4groovy.github.io/animateSvgPat
 
 `animateSvgPath(selectorNodes, style, animateSeconds, delaySeconds, cbPauseSeconds, cb)`
 
-**Return: ** ID of the cb's `setTimeout` (for `clearTimeout` if you want to cancel the cb).
+**Return:** ID of the cb's `setTimeout` (for `clearTimeout` if you want to cancel the cb).
 
 * selectorNodes - can be a CSS selector, or an array of DOM nodes (SVG paths)
 	* `'path'`
