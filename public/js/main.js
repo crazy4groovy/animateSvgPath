@@ -12,6 +12,6 @@ $('#svg-button').on('click', function (e) {
 
   $('#svg-holder').load(
     file,
-    animateSvgPath.bind(null, '#svg-holder path', { fill: 'transparent', stroke: '#FF00AA', 'stroke-width': '2', sequential: true }, seconds, 0, 2, cb, null)
+    animateSvgPath.bind(null, '#svg-holder path', { fill: 'transparent', stroke: '#FF00AA', 'stroke-width': '2', sequential: true }, seconds, 0, 2, cb)
   )
 })
